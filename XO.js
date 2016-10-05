@@ -68,7 +68,4 @@ function CheckIfGameOver(){
     }
     return false;
 }
-function resetWin() {
-    var inputs = gameBox.getElementsByTagName('input');
-    return false;
-}
+
